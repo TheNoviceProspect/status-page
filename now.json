@@ -1,0 +1,8 @@
+{
+    "version": 2,
+    "name": "mzb-statusfy",
+    "alias": "mzb-statusfy",
+    "builds": [
+	{ "src": "package.json", "use": "@now/static-build" }
+    ]
+}
