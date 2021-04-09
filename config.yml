@@ -1,0 +1,11 @@
+title: "MzB Solutions :: Status"
+name: mzb_solutions_::_status
+description: MzB Solutions Services Status
+defaultLocale: en
+locales:
+  - code: en
+    iso: en-GB
+    name: English
+    file: en.json
+content:
+  frontMatterFormat: yaml
