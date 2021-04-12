@@ -1,7 +1,7 @@
 {
     "version": 2,
-    "name": "mzb-statusfy",
-    "alias": "mzb-statusfy",
+    "name": "mzb_solutions_status",
+    "alias": "mzb_solutions_status",
     "builds": [
 	{ "src": "package.json", "use": "@now/static-build" }
     ]
